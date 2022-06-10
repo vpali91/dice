@@ -1,8 +1,5 @@
 # dice
 
-Dobókockás játék
+Dice game
 
-## Getting Started
-
-Ez a 4. Flutter alkalmazás.
-TextButton (régen FlatButton) használata, összekötése funkciókkal.
+Play with double dices. Tap the textbuttons on your screen, and the game begins...
